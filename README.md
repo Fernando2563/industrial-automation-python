@@ -40,7 +40,7 @@ Demonstrar como Python pode ser aplicado em ambientes industriais reais para:
 
 ---
 
- 📂 Estrutura do Repositório
+ ## 📂 Estrutura do Repositório
  
  ```text
  industrial-automation-python/
