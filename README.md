@@ -40,4 +40,23 @@ Demonstrar como Python pode ser aplicado em ambientes industriais reais para:
 
 ---
 
-## 📂 Estrutura do Repositório
+ 📂 Estrutura do Repositório
+ 
+ ```text
+ industrial-automation-python/
+ ├── scripts/
+│   └── monitoring_predictive_demo.py
+ ├── requirements.txt
+ └── README.md
+ ```
+ 
+ ## ▶️ Como executar
+ 
+ ### Instalação
+ 
+ ```bash
+ pip install -r requirements.txt
+ python scripts/monitoring_predictive_demo.py
+ ```
+
+
