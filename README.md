@@ -1,62 +1,90 @@
-# Automação Industrial com Python
+# Fernando Cardoso — Industrial Automation & AI Engineer
 
-Este repositório apresenta aplicações práticas de **automação industrial integrada à análise de dados**, utilizando Python como ferramenta central para monitoramento, diagnóstico e lógica preditiva.
+Industrial Automation and Artificial Intelligence Engineer focused on mission-critical infrastructure, industrial telemetry, and intelligent control systems.  
+I design and develop reliable OT/IT integrated solutions using PLC/SCADA, Python analytics, and cloud-connected industrial architectures.
 
-O foco está na **integração OT/IT**, conectando sistemas de chão de fábrica (PLC, sensores, equipamentos industriais) com camadas de software, dados e inteligência.
-
----
-
-## 🎯 Objetivo do Projeto
-
-Demonstrar como Python pode ser aplicado em ambientes industriais reais para:
-
-- Automação de processos
-- Monitoramento de variáveis industriais
-- Análise de dados operacionais
-- Lógica preditiva e suporte à decisão
-- Integração entre sistemas industriais e digitais
+My work bridges operational technology and software engineering to improve reliability, monitoring, and autonomous decision-making in industrial environments such as data centers and automated facilities.
 
 ---
 
-## 🧠 Tecnologias e Conceitos
+## Featured Projects
 
-- Python
-- Pandas e NumPy
-- Análise de dados industriais
-- Integração OT/IT
-- Conceitos de PLC e automação
-- APIs e integração de sistemas
-- Monitoramento e manutenção preditiva
+### Aicotex — Industrial Telemetry & Intelligent Monitoring Platform
 
----
+Industrial telemetry and monitoring architecture designed for mission-critical environments.
 
-## 🏭 Casos de Uso Abordados
+Key capabilities:
 
-- Coleta e análise de dados de sensores
-- Monitoramento de tensão, corrente e estados operacionais
-- Identificação de falhas e comportamentos anômalos
-- Geração de relatórios automáticos
-- Base para integração com sistemas supervisórios e cloud
+- Real-time telemetry and sensor monitoring  
+- Predictive logic and anomaly detection foundations  
+- Industrial protocol integration (MQTT, Modbus, OPC-ready)  
+- Scalable architecture for cloud and edge integration  
+- Designed for reliability, traceability, and fault tolerance  
 
 ---
 
- ## 📂 Estrutura do Repositório
- 
- ```text
- industrial-automation-python/
- ├── scripts/
-│   └── monitoring_predictive_demo.py
- ├── requirements.txt
- └── README.md
- ```
- 
- ## ▶️ Como executar
- 
- ### Instalação
- 
- ```bash
- pip install -r requirements.txt
- python scripts/monitoring_predictive_demo.py
- ```
+### Industrial Automation with Python
+
+Industrial monitoring and automation logic using Python for diagnostics, telemetry processing, and system intelligence.
+
+Repository:  
+https://github.com/Fernando2563/industrial-automation-python
+
+Capabilities demonstrated:
+
+- Industrial telemetry data handling  
+- Monitoring logic and diagnostics  
+- Automation-oriented software architecture  
+- Foundations for predictive maintenance systems  
+
+---
+
+## Core Technical Stack
+
+Automation & Industrial Systems:
+
+- PLC/SCADA systems  
+- Industrial communication protocols  
+- Telemetry and monitoring systems  
+- Mission-critical infrastructure concepts  
+
+Software & Data:
+
+- Python (automation, monitoring, analytics)  
+- System diagnostics and telemetry processing  
+- Automation-oriented software architecture  
+
+Cloud & Integration:
+
+- Azure IoT architecture concepts  
+- Edge-to-cloud telemetry pipelines  
+- Industrial system integration patterns  
+
+Engineering Focus:
+
+- Reliability engineering  
+- Fault-tolerant system design  
+- Monitoring and observability  
+- Industrial intelligence and automation  
+
+---
+
+## Professional Profile
+
+Engineer specialized in the convergence of automation, industrial systems, and intelligent software.  
+Focused on building scalable, reliable, and intelligent infrastructure for modern industrial environments.
+
+---
+
+## Contact
+
+Email:  
+fernnanndoengenheiro@gmail.com
+
+LinkedIn:  
+https://linkedin.com/in/fernandoalvescardoso
+
+
+
 
 
